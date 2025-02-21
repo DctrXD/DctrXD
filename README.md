@@ -27,7 +27,7 @@ Estou aprimorando minhas habilidades em desenvolvimento Full Stack e trabalhando
 
 ## 📫 Como Me Encontrar
 - **GitHub**: [github](https://github.com/dctrxd)
-- **LinkedIn**: [linkedin](https://www.linkedin.com/in/joão-pedro-de-sena-santana-a0baa52a5/)
+- **LinkedIn**: [linkedin](https://www.linkedin.com/in/joão-pedro-de-sena-a0baa52a5/)
 - **E-mail**: jpsena2005@gmail.com
 
 Sinta-se à vontade para explorar meus repositórios e entrar em contato! 🚀
