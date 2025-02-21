@@ -1,4 +1,3 @@
-![XD](https://github.com/user-attachments/assets/fffff904-be93-4c1b-93cb-01625d9ff9fc)
 
 # Eu sou o João Pedro 👋
 
